@@ -1,0 +1,6 @@
+[33mc1a35b7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to c1a35b7
+[33m64f7844[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to 64f7844
+[33m993c60e[m HEAD@{2}: rebase (finish): returning to refs/heads/main
+[33m993c60e[m HEAD@{3}: pull origin main --rebase (start): checkout 993c60e165f0dd0e03971efd3323734990ed1b22
+[33mecd93a7[m HEAD@{4}: Branch: renamed refs/heads/master to refs/heads/main
+[33mecd93a7[m HEAD@{6}: commit (initial): Update halaman
